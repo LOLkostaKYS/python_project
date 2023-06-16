@@ -1,1 +1,1 @@
-# PYTHON-VARSOS
+A project for school.
